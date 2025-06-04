@@ -23,4 +23,4 @@ Este projeto é uma aplicação de e-commerce desenvolvida com React e Next.js, 
 - shadcn/ui
 
 ## 🔗 Commit final
-[NaveguePelasRotas+Galetto]([https://github.com/usuario/repositorio/commit/codigo-do-commit](https://github.com/laisGaletto/shophub/commit/ff9de9c0018882327bbe1ade10bb5b367cd86e28))
+[NaveguePelasRotas+Galetto](https://github.com/laisGaletto/shophub/commit/ff9de9c0018882327bbe1ade10bb5b367cd86e28)
